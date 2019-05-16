@@ -21,5 +21,5 @@
 - **负责人**：Tony Duan
 - **嘉宾分享 PPTs**
     - **TensorFlow Dev Summit 2019** [PPT](https://tduan.netlify.com/ppt/2019tfds_intro#1)
-    - **智能交互背后的Tensorflow** (PPT)[]
-    - **如何让机器学会阅读** [PPT](https://github.com/tfug-shenzhen/tfug_sz_docs/raw/master/201903/slides/teach_machine_comprehension.pdf)
+    - **智能交互背后的Tensorflow** [PPT](https://github.com/tfug-shenzhen/tfug_sz_docs/blob/master/201903/slides/%E6%99%BA%E8%83%BD%E4%BA%A4%E4%BA%92%E8%83%8C%E5%90%8E%E7%9A%84Tensorflow.pdf)
+    - **如何让机器学会阅读** [PPT](https://github.com/tfug-shenzhen/tfug_sz_docs/blob/master/201903/slides/teach_machine_comprehension.pdf)
