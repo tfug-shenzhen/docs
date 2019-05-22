@@ -1,6 +1,6 @@
 # Welcome to Tensorflow user group Shenzhen
 
-## [**2019-06-13**] Codelab工作坊: `Tenforflow 2.x` 最佳实践
+## [**2019-06-13**] Codelab工作坊: 高效地使用TensorFlow
 
 - **时间**：2010-06-13 周六 下午 14:00 - 16:00
 - **地点**：深圳市南山区科发路1号富利臻大厦3F【思微2.0】
